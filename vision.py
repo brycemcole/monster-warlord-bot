@@ -7,6 +7,8 @@ import pytesseract
 from PIL import ImageGrab
 
 
+# lets see lol
+
 class ViewAgent:
 
     @staticmethod
