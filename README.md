@@ -1,5 +1,5 @@
 # monster-warlord-bot
-open source obscure game automation for a obscure game
+beep boop
 
 we'll see what happens
 
